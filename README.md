@@ -1,5 +1,5 @@
 # Hi, I'm Yousouf! <br/>
-Data Science & Business Analytics
+[Data Science & Business Analytics](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
 
 ---
 
@@ -43,14 +43,7 @@ Data Science & Business Analytics
 - Java • C++ • HTML/CSS • Git
 
 **Creative**
-- Photoshop • Premiere Pro
-
----
-
-## 🏐 Activities
-- UCT Capoeira Committee Member
-- Volleyball & Hiking
-- Founder — *Crimzon Creations*
+- Photoshop • Davinci Resolve
 
 ---
 
