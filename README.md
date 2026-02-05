@@ -1,5 +1,6 @@
 # Hi, I'm Yousouf! <br/>
-[Data Science & Business Analytics](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
+
+As a soon-to-be M.Sc. Data Science graduate, I am driven by the evolving tech landscape and a passion for turning data into active decision-making. I enjoy visualizing complex problems to fix inefficient processes and believe in a creative, open-minded approach to applying technical solutions. My background in sports and leadership has equipped me with a calm, adaptive mindset to navigate unknowns and lead teams effectively.
 
 ---
 
