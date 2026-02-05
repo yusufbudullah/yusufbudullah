@@ -2,20 +2,19 @@
 
 ## 👨‍💻 Professional Experience:
 
-- [cite_start]**IT Consultant @ Itelligence** [01/10/24-20/12/24] [cite: 41]
+- [cite_start]**IT Consultant @ Itelligence** (01/10/24 - 20/12/24) [cite: 41]
   - [cite_start]Specialized in **Oracle NetSuite**, **ERP**, and **Web Development**[cite: 41].
-- [cite_start]**Intern @ Itelligence** [June/July 2020] [cite: 41]
+- [cite_start]**Intern @ Itelligence** (June/July 2020) [cite: 41]
   - [cite_start]Focused on Oracle NetSuite and ERP systems[cite: 41].
-- [cite_start]**Networking Intern @ Perrieri IT Solutions Ltd.** [15/08/19-19/08/19] [cite: 41]
-- [cite_start]**Graphics Design & Marketing Intern @ Cread & CO Ltd.** [06/08/19-14/08/19] [cite: 41]
+- [cite_start]**Networking Intern @ Perrieri IT Solutions Ltd.** (15/08/19 - 19/08/19) [cite: 41]
+- [cite_start]**Graphics Design & Marketing Intern @ Cread & CO Ltd.** (06/08/19 - 14/08/19) [cite: 41]
 
 ## 📊 Academic Focus & Projects:
 
-- [cite_start]**M.Sc. in Data Science and Business Analytics** [2025-2026] [cite: 43]
+- [cite_start]**M.Sc. in Data Science and Business Analytics** (2025 - 2026) [cite: 43]
   - [cite_start]Achieved Distinctions (A+) in **Multivariate Methods**, **Business Intelligence Systems**, and **Advanced Business Analytics**[cite: 47].
   - **Master’s Capstone Project**: Developing a conceptual model for organizational memory within IT consultancies.
-- **Time Series Analysis and Forecasting**
-  - Interpreting ACF/PACF plots and formulating equations for ARIMA/GARCH models using **R**.
+- **Time Series Analysis and Forecasting** - Interpreting ACF/PACF plots and formulating equations for ARIMA/GARCH models using **R**.
 - **Operational Research and Optimisation**
   - Formulating linear programming models to optimize business task allocation.
 
@@ -27,7 +26,7 @@
 
 ## 🏐 Leadership & Engagement:
 
-- [cite_start]**UCT Capoeira Club**: Committee Member [2023-2024] [cite: 66, 67] [cite_start]and general member [2022-2024][cite: 65].
+- [cite_start]**UCT Capoeira Club**: Committee Member (2023 - 2024) [cite: 66, 67] [cite_start]and general member (2022 - 2024)[cite: 65].
 - [cite_start]**UCT Volleyball & Mountain & Ski Clubs**: Active member participating in hiking and competitive sports[cite: 59, 63].
 - [cite_start]**Crimzon Creations**: Personal brand for video editing and content composition[cite: 144].
 
