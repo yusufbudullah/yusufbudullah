@@ -4,14 +4,18 @@
 ---
 
 ## 👨‍💻 Experience
-**IT Consultant — Itelligence** (Oct 2024 – Dec 2024)  
-Oracle NetSuite • ERP customisation • Web systems • Client solutions
 
-**Intern — Itelligence** (Jun 2020 – Jul 2020)  
-ERP workflows & NetSuite exposure
+**IT Consultant — Itelligence** (Oct 2024 – Dec 2024)
+- Oracle NetSuite customisation & ERP solutions
+- Web systems & client support
+- Business process improvements
 
-Networking Intern — Perrieri IT Solutions Ltd. (2019)  
-Graphics & Marketing Intern — Cread & Co Ltd. (2019)
+**Intern — Itelligence** (Jun 2020 – Jul 2020)
+- ERP workflows & NetSuite exposure
+
+**Other**
+- Networking Intern — Perrieri IT Solutions Ltd. (2019)
+- Graphics & Marketing Intern — Cread & Co Ltd. (2019)
 
 ---
 
@@ -23,33 +27,32 @@ Graphics & Marketing Intern — Cread & Co Ltd. (2019)
 
 ## 🧠 Skills
 
-**Data Analysis & Modelling**  
-Statistical analysis • Machine learning workflows • Feature engineering • Model validation • Forecasting
+**Analytical Methods**
+- Statistical modelling • Machine learning • Forecasting • Optimisation
 
-**Business Intelligence & Decision Support**  
-Dashboard design • KPI analytics • Business process analysis • ERP data utilisation
+**Enterprise & BI Tools (Professional Exposure)**
+- Oracle NetSuite
+- SAP S/4HANA
+- Tableau • Power BI
 
-**Optimisation & Quantitative Methods**  
-Operational research • Linear optimisation • Analytical problem solving
+**Programming & Data Tools**
+- Python • R • SQL • SAS
+- Java • C++ • HTML/CSS • Git
 
-**Data & Software Tools**  
-Python • R • SQL • SAS • Tableau • Power BI • Oracle NetSuite • SAP S/4HANA • Git
-
-**Development**  
-Java • C++ • HTML/CSS
-
-**Creative**  
-Photoshop • Premiere Pro
+**Creative**
+- Photoshop • Premiere Pro
 
 ---
 
 ## 🏐 Activities
-UCT Capoeira Committee • Volleyball • Hiking • Founder — Crimzon Creations
+- UCT Capoeira Committee Member
+- Volleyball & Hiking
+- Founder — *Crimzon Creations*
 
 ---
 
 ## 🤳 Contact
 
-[<img align="left" alt="Yousouf Budullah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
-[<img align="left" alt="Yousouf Budullah | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/yusufbudullah)
-[<img align="left" alt="Yousouf Budullah | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yousouf.budullah@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github/ffffff" />](https://github.com/yusufbudullah)
+[<img align="left" alt="Email" width="22px" src="https://cdn.simpleicons.org/gmail/ffffff" />](mailto:yousouf.budullah@gmail.com)
