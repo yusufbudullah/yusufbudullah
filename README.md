@@ -1,5 +1,5 @@
 # Hi, I'm Yousouf! <br/>
-[Data Science & Business Analytics](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/) • [GitHub Portfolio](https://github.com/yusufbudullah)
+Data Science & Business Analytics
 
 ---
 
@@ -27,16 +27,19 @@
 
 ## 🧠 Skills
 
-**Analytical Methods**
+**Data Science**
 - Statistical modelling • Machine learning • Forecasting • Optimisation
+- Python • R • SQL • SAS
 
-**Enterprise & BI Tools (Professional Exposure)**
-- Oracle NetSuite
-- SAP S/4HANA
+**Business Analytics & BI**
+- KPI analysis • Dashboard reporting • Data storytelling
 - Tableau • Power BI
 
-**Programming & Data Tools**
-- Python • R • SQL • SAS
+**Enterprise Systems**
+- Oracle NetSuite • ERP workflows • Business process analysis
+- SAP S/4HANA exposure
+
+**Software Development**
 - Java • C++ • HTML/CSS • Git
 
 **Creative**
@@ -53,6 +56,6 @@
 
 ## 🤳 Contact
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff" />](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github/ffffff" />](https://github.com/yusufbudullah)
-[<img align="left" alt="Email" width="22px" src="https://cdn.simpleicons.org/gmail/ffffff" />](mailto:yousouf.budullah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousouf_Budullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yousouf-ali-budullah-641830230/)
+[![GitHub](https://img.shields.io/badge/GitHub-yusufbudullah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufbudullah)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousouf.budullah@gmail.com)
