@@ -24,7 +24,7 @@ As a soon-to-be M.Sc. Data Science graduate, I am driven by the evolving tech la
 ---
 
 ## 🎓 Education
-**M.Sc. Data Science & Business Analytics — Asia Pacific University (2025–2026)**  
+**M.Sc. Data Science & Business Analytics — Asia Pacific University | De Montfort University (2025–2026)**  
 **B.Sc. Computer Science / Business Computing — University of Cape Town (2022–2024)**
 
 ---
