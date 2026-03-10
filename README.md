@@ -10,9 +10,9 @@ As a soon-to-be M.Sc. Data Science graduate, I am driven by the evolving tech la
 ## 👨‍💻 Experience
 
 **IT Consultant — Itelligence** (Oct 2024 – Dec 2024)
-- Oracle NetSuite customisation & ERP solutions
-- Web systems & client support
-- Business process improvements
+- Explored diverse technical solutions within Oracle NetSuite and ERP frameworks to meet specific client needs.
+- Collaborated with experienced developers and project managers to deliver integrated web solutions.
+- Developed custom SuiteScripts and web components to extend Oracle NetSuite ERP functionality
 
 **Intern — Itelligence** (Jun 2020 – Jul 2020)
 - ERP workflows & NetSuite exposure
